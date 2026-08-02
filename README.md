@@ -100,4 +100,4 @@ Full project documentation, including the academic project report, is available 
 
 ## 📄 License
 
-No license specified yet — all rights reserved by default until one is added.
+This project is licensed under the [MIT License](./LICENSE).
